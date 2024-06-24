@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concept2VRC", "Concept2VRC\Concept2VRC.csproj", "{3B135DDD-4910-48E1-BD71-5649FD58CD18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concept2API", "Concept2API\Concept2API.csproj", "{AD78B7F4-8D41-4E6A-86B4-E5BE4281D9C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B135DDD-4910-48E1-BD71-5649FD58CD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B135DDD-4910-48E1-BD71-5649FD58CD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B135DDD-4910-48E1-BD71-5649FD58CD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B135DDD-4910-48E1-BD71-5649FD58CD18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD78B7F4-8D41-4E6A-86B4-E5BE4281D9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD78B7F4-8D41-4E6A-86B4-E5BE4281D9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD78B7F4-8D41-4E6A-86B4-E5BE4281D9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD78B7F4-8D41-4E6A-86B4-E5BE4281D9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
